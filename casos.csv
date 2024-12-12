@@ -1,0 +1,74 @@
+nome;Ofri;Soline Lopes;Carmem Regina;Gustavo Henrique;Augusta Soares de Lima;Edenilson B Ferreira;Doron Levner;Ivani;Jorge Gustavo Paulo Boldeke
+IMC;24,2214532871972;23,4375;23,4375;24,2214532871972;23,4375;24,2214532871972;23,4375;24,2214532871972;24,2214532871972
+TMB;1577,5;1244;1064;1597,5;1164;1617,5;1259;1487,5;1512,5
+Gordura corporal;21,6057439446367;20,895;29,175;20,6857439446367;24,575;19,7657439446367;20,205;25,7457439446367;24,5957439446367
+Índice de Massa Livre de Gordura normalizado;19,5985640138408;19,77625;17,70625;19,8285640138408;18,85625;20,0585640138408;19,94875;18,5635640138408;18,8510640138408
+Massa Livre de Gordura (MLG);54,8759792387543;47,463;42,495;55,5199792387543;45,255;56,1639792387543;47,877;51,9779792387543;52,7829792387543
+Índice de Massa Livre de Gordura (IMLG);18,9882281102956;18,540234375;16,599609375;19,2110654805378;17,677734375;19,43390285078;18,701953125;17,9854599442057;18,2640066570084
+Sexo;1;0;0;1;0;1;0;1;1
+Idade hoje;38;39;75;34;55;30;36;56;51
+Idade no desaparecimento;29;0;14;24;20;2;0;5;24
+Tempo;3;0;50;;;;;;
+Qual data de nascimento do desaparecido?;1986;1985;1949;1990;1969;1994;1988;1968;1973
+Qual é altura aproximada do desaparecido?;170;160;160;170;160;170;160;170;170
+Qual é peso aproximada do desaparecido?;70;60;60;70;60;70;60;70;70
+Qual data do desaparecimento?;2015;1985;1963;2014;1989;1996;1988;1973;1997
+Quanto tempo levou para ser encontrado?;1095,75;0;18262,5;7305;10957;10226;8766;20088;3652
+O desaparecido é homen;1;-1;-1;1;-1;1;-1;1;1
+O desaparecido tem apelido?;0;0;0;0;0;0;0,5;0;-1
+O desaparecido tem cabelo longo?;0;0;0;0;0;0;0;0;-0,5
+O desaparecido tem olhos claros?;0;0;0;0;0;0;0;0;-1
+O desaparecido tem problema de visão?;0;0;0;0;0;-1;-1;0;1
+O desaparecido usa óculos?;0;0;0;0;0;-1;0;0;-0,5
+O desaparecido tem alguma deficiências físicas?;-1;0;-1;0;-1;-1;-1;0;1
+O desaparecido tem tatuagens?;0;0;0;0;-1;-1;-1;-1;-1
+O desaparecido tem piercings?;0;0;0;0;-1;-1;-1;-1;-1
+O desaparecido é Brasileiro?;1;1;1;1;1;1;1;1;1
+O desaparecido foi sequestro?;-1;0,5;-0,5;1;-1;0,5;0,5;0;-1
+O desaparecido tem relação com conflitos de guarda?;1;0,5;0;1;-1;1;0;0;-1
+O desaparecido fugiu?;-1;-1;0;-1;1;-1;-1;0;1
+O desaparecido se perdeu?;-1;-1;0;-1;-1;-1;-1;0;0,5
+O desaparecido tem amputações?;-1;0;0;0;0;-1;0;0;-1
+O desaparecido estava procurando emprego?;-1;0;0;-1;1;-1;0;0;1
+O desaparecido iria visitar parentes?  ;-1;0;0;0;-1;;-1;0;1
+O desaparecido mencionou a data de retornar?;-1;0;0;-1;0;0;0;0;-1
+O desaparecido viajaria sozinho?;-1;0;0;-1;0;-1;-1;0;0,5
+O desaparecido estaria acompanhado por alguém?;1;0;0;1;0;1;1;0;-1
+O desaparecido iria encontrar alguém específico?;0;0;0;0;0;1;0;0;-1
+O desaparecido já havia comentado sobre a possibilidade de deixar casa nunca mais voltar?;-1;0;0;-1;0;-1;-1;0;-1
+O desaparecido já havia comentado sobre a possibilidade de deixar trabalho?;-1;0;0;-1;0;-1;-1;0;-1
+O desaparecido tem relacionamentos amorosos? ;-1;0;0;0;-1;-1;-1;-1;-1
+O desaparecido possui algum objeto de grande valor sentimental em que foi levado com ele?   ;-1;0;0;0;0;-1;0;0;0
+O desaparecido mencionou planos ou ambições para o futuro recentemente?;-1;0;0;1;0;0;0;0;-1
+O desaparecido mantinha esperança apesar das dificuldades?;0;0;0;1;0;0,5;1;0,5;1
+O desaparecido iria para fora do Brasil?;0;1;-0,5;-1;-1;-1;1;-1;-1
+O desaparecido iria para Centro-Oeste do Brasil?;0;-1;-0,5;-1;-1;-1;-1;-1;0,5
+O desaparecido iria para Nordeste do Brasil?;0;-1;-0,5;-1;-1;-1;-0,5;-1;-1
+O desaparecido iria para Norte do Brasil?;0;-1;-0,5;-1;-1;-1;-1;-1;-1
+O desaparecido iria para Sudeste do Brasil?;0;-1;-0,5;1;1;-1;-1;0,5;0,5
+O desaparecido iria para Sul do Brasil?;0;0;1;-1;-1;0;-1;1;1
+O desaparecido retornava periodicamente à residência familiar?;-1;-1;0;-1;-1;0;-1;0;-1
+O desaparecido participava regularmente de encontros ou eventos comunitários?;-1;0;0;0;0;0;0;0;-0,5
+O desaparecido costumava usar carro?;-1;0;0;0;0;0;0;0;0,5
+O desaparecido costumava usar ônibus?;-1;0;0;0;0;0;0;0;1
+O desaparecido costumava usar aplicativo de transporte?;-1;0;-1;-1;0;0;0;0;-1
+O desaparecido viajava principalmente durante o dia?;0;0;0;0;0;0;0;0;1
+O desaparecido tem algum parente distante?;0;0;0;0;0;1;0;0,5;-0,5
+O desaparecido é desempregado?;1;0;0;0;0;0;0;0;1
+O desaparecido possui características físicas asiáticas?;0;0;0;0;0;0;0;-1;0
+O desaparecido possui características físicas africanas?;0;0;0;0;0;-1;0;-1;0
+O desaparecido possui características físicas europeias?;0;0;0;0;0;-1;0;0;0
+O desaparecido possui características físicas latinas?;0;0,5;0;1;1;1;1;1;0,5
+O desaparecido possui características físicas americanas? ;0;0;0;0;0;-1;-0,5;-1;0
+O desaparecido se sentia mais feliz que a maioria das pessoas?   ;1;0;0;0;0;1;0;0;-0,5
+Em geral, o desaparecido estava satisfeita com a sua vida?;1;0;0;0;0;-0,5;0;0;-0,5
+Em geral, as coisas estavam indo bem para o desaparecido?;1;0;0;0;0;0,5;0;0;-0,5
+O desaparecido estava na posse de seus documentos pessoais?;-0,5;0;0;0;1;0;-1;0,5;-1
+A pessoa desaparecida expressou recentemente o desejo de reencontrar um filho que foi doado?;0;0;0;0;0;0;0;0;0
+A pessoa desaparecida fez viagens recentes sem explicação clara? ;0;0;0;0;0;0;0;0;0
+A pessoa desaparecida mencionou dificuldades em cuidar ou sustentar uma criança?;0;0;0;0;0;0;0;0;0
+O hospital forneceu uma explicação clara para o óbito do possível desaparecido? ;-1;0;0;0;0;0;0;0;0
+Você notou demora na comunicação do óbito do possível desaparecido por parte do hospital?;-1;0;0;0;0;0;0;0;0
+O hospital facilitou o acesso a registros médicos relacionados ao caso do desaparecido?;-1;0;0;0;0;0;0;0;0
+Alguém viu o corpo do desaparecido?;-1;0;0;0;0;0;0;0;0
+O desaparecido está morto?;-0,5;0;0;0;0;0;0;0;0
